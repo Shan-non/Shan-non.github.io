@@ -2,4 +2,10 @@
 title: "About"
 ---
 
+MDS 2024-2025 student.
+BSc. in Microbiology and Immunology at UBC, 2019.
+Interested in electronic health records and using my data science knowledge to further medical research!
+
+I enjoy hiking, baking, and swimming in my leisure time.
+
 About this site
