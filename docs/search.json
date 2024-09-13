@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "MDS 2024-2025 student. BSc. in Microbiology and Immunology at UBC, 2019. Interested in electronic health records and using my data science knowledge to further medical research!\nI enjoy hiking, baking, and swimming in my leisure time.\nAbout this site"
+  }
+]
